@@ -1,28 +1,31 @@
-Analyse des données – Projet étudiant
+Projet : Analyse de données statistiques
 
 Description
 
-Ce projet a pour objectif de réaliser une analyse descriptive d'un jeu de données en utilisant Python.
+Ce projet consiste à réaliser une analyse statistique d'un jeu de données étudiant à l'aide de Python.
 
 Objectifs
 
-- Explorer les données.
-- Identifier les valeurs manquantes.
-- Détecter les valeurs aberrantes.
-- Réaliser une analyse statistique descriptive.
-- Interpréter les résultats.
+- Nettoyage et préparation des données.
+- Analyse descriptive.
+- Régression linéaire simple.
+- Analyse de variance (ANOVA).
+- Test du Khi-deux d'indépendance.
+- Interprétation des résultats statistiques.
 
-Technologies utilisées
+Bibliothèques utilisées
 
 - Python
 - Pandas
 - NumPy
+- SciPy
 - Matplotlib
+- Seaborn
 
-Structure du projet
+Fichiers du projet
 
-- "donnees_projet.csv" : fichier contenant les données.
-- "projet_etudiant.py" : script Python pour l'analyse des données.
+- "donnees_projet.csv" : jeu de données utilisé pour l'analyse.
+- "projet_etudiant.py" : script Python contenant les différentes parties du projet.
 
 Auteur
 
